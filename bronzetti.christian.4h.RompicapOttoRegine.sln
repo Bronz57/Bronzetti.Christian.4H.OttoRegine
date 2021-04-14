@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bronzetti.christian.4h.RompicapOttoRegine", "bronzetti.christian.4h.RompicapOttoRegine\bronzetti.christian.4h.RompicapOttoRegine.csproj", "{DD8E68B1-CDA0-45F4-B118-FDDF3F502C68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD8E68B1-CDA0-45F4-B118-FDDF3F502C68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8E68B1-CDA0-45F4-B118-FDDF3F502C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8E68B1-CDA0-45F4-B118-FDDF3F502C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8E68B1-CDA0-45F4-B118-FDDF3F502C68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7FB0901-169A-4245-A24F-131593B4B8B3}
+	EndGlobalSection
+EndGlobal
